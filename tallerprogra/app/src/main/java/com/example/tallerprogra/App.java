@@ -15,6 +15,8 @@ public class App {
              System.out.println("Ingrese el valor de grados celsius");//guardando el valor
              double celsius = sc.nextDouble();
                 System.out.println("REALIZACION DE OPERACIONES");
+                System.out.println("la operacion que se va a realizar en primero una multiplicacion");
+                System.out.println("luego se realiza una suma en base a la formula ");
              //realizar la operacion
              // hola que tal ing 
              double fahrenheit = (celsius*9/5)+32;
