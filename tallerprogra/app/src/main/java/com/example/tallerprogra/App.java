@@ -25,6 +25,7 @@ public class App {
              System.out.println("Hola cambios genesis");   
              //fin del programa
                 System.out.println("GRACIAS POR USAR ESTE PEQUEÑO PROGRAMA");
+                System.out.println("fin del sistema .....");
     }
 
     }
