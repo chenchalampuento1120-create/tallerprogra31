@@ -3,12 +3,23 @@
  */
 package com.example.tallerprogra;
 
+import java.util.Scanner;
+
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
+    
+            public static void main(String[] args) {
+             Scanner sc = new Scanner(System.in);
+
+             // Convertir Celsius a Fahrenheit
+
+             System.out.println("Ingrese el valor de grados celsius");//guardando el valor
+             double celsius = sc.nextDouble();
+
+             //realizar la operacion
+             double fahrenheit = (celsius*9/5)+32;
+
+             System.out.println("El valor de grados fahrenheit es: "+fahrenheit);
+                
     }
 
-    public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
     }
-}
