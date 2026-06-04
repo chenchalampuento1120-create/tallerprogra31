@@ -22,7 +22,7 @@ public class App {
              //holaA
                 System.out.println("hola mundo");
                 System.out.println("bienvenidos");
-                System.out.println("waos");
+                System.out.println("wao");
     }
 
     }
