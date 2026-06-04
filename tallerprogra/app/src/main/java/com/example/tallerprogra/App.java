@@ -17,6 +17,7 @@ public class App {
              double celsius = sc.nextDouble();
 
              //realizar la operacion
+             // hola que tal ing lo amamos 
              double fahrenheit = (celsius*9/5)+32;
 
              System.out.println("El resultado de grados fahrenheit es: "+fahrenheit);//resultado
