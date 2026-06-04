@@ -22,6 +22,7 @@ public class App {
 
              System.out.println("El resultado de grados fahrenheit es: "+fahrenheit);//resultado
              System.out.println("Hola cambios genesis");   
+             //fin del programa
     }
 
     }
